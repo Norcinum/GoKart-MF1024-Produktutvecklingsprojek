@@ -18,7 +18,7 @@ Detta enligt Pugsley Safety Factor Approach. Lager dimensionerades och valdes fr
 kataloger. Spårkullager SKF 61802-2RS1 samt glidlager PSMF 061004 A51 valdes utifrån
 beräkningar av dimensionerande parametrar och livslängd.
 
-############################################################################################################
+###########################################################################################################
 
 Detta är en sammanställning av all MATLAB kod som använde vid hållfasthetsanalysen av spindeln under projektets gång. 
 
